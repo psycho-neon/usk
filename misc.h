@@ -2,6 +2,8 @@
 #define PIX_yel 0x3F0000
 #define PIX_whi 0x003F00
 
+#define PIX_pur 0xCC8899
+
 #define PIX_b 0x00000F
 
 void put_pixel(uint32_t pixel_grb);
