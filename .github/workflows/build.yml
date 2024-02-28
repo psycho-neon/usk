@@ -16,7 +16,7 @@ jobs:
       - name: Checkout rehius/usk
         uses: actions/checkout@v3
         with:
-          repository: rehius/usk
+          repository: psycho-neon/usk
           path: usk
       
       - name: Checkout rehius/busk
