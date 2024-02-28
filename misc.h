@@ -3,6 +3,7 @@
 #define PIX_whi 0x003F00
 
 #define PIX_pur 0xCC8899
+#define PIX_purb 0xCA5CDD
 
 #define PIX_b 0x00000F
 
