@@ -2,7 +2,7 @@
 #define PIX_yel 0x003F00
 #define PIX_whi 0x3F0000
 
-#define PIX_pur 0x015665 
+#define PIX_pur 0x00f8ff 
 #define PIX_purb 0x01363F
 
 #define PIX_b 0x00000F
